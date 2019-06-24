@@ -72,7 +72,7 @@ class _HomeState extends State<Home> {
             tms: true,
           ),
           MarkerClusterLayerOptions(
-            maxClusterRadius: 39,
+            maxClusterRadius: 100,
             height: 40,
             width: 40,
             // fitBoundsOptions: FitBoundsOptions(
